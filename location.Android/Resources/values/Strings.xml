@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">Captura dinamica posicao V2</string>
+  <string name="server_prompt">Choose a server</string>
+  <string-array name="server_array">
+    <item>186.201.214.56</item>
+    <item>10.97.9.11</item>    
+  </string-array>
+</resources>

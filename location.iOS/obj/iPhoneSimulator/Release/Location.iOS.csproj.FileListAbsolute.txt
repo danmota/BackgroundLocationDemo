@@ -1,0 +1,8 @@
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.iOS\bin\iPhoneSimulator\Release\locationiOS.exe
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.iOS\obj\iPhoneSimulator\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.iOS\obj\iPhoneSimulator\Release\actool\_PartialAppManifest.items
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.iOS\obj\iPhoneSimulator\Release\actool\_BundleResourceWithLogicalName.items
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.iOS\obj\iPhoneSimulator\Release\optimized\
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.iOS\obj\iPhoneSimulator\Release\Location.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.iOS\obj\iPhoneSimulator\Release\Location.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.iOS\obj\iPhoneSimulator\Release\locationiOS.exe

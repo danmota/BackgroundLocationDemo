@@ -1,0 +1,11 @@
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Release\android\assets\location.Androidd.dll
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Release\android\assets\Java.Interop.dll
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Release\android\assets\Microsoft.CSharp.dll
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Release\android\assets\Mono.Android.dll
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Release\android\assets\mscorlib.dll
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Release\android\assets\Renci.SshNet.dll
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Release\android\assets\SshNet.Security.Cryptography.dll
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Release\android\assets\System.Core.dll
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Release\android\assets\System.dll
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Release\android\assets\Mono.Security.dll

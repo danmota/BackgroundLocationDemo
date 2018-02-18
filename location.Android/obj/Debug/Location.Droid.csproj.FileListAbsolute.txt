@@ -1,0 +1,113 @@
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\bin\Debug\location.Androidd.dll
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\bin\Debug\location.Androidd.pdb
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\bin\Debug\Location.Droid.apk
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\bin\Debug\Location.Droid-Signed.apk
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\Location.Droid.csprojResolveAssemblyReference.cache
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\Location.Droid.csproj.CoreCompileInputs.cache
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\location.Androidd.dll
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\location.Androidd.pdb
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\android\bin\Location.Droid.apk
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\res\values\strings.xml
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-ldpi\icon.png
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\res\layout\main.xml
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-hdpi\ic_launcher.png
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-ldpi\ic_launcher.png
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-mdpi\ic_launcher.png
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-xxhdpi\ic_launcher.png
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable\ic_launcher.png
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\location.android\resources\drawable\ic_launcher.png
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\R.cs.flag
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\uploadflags.txt
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\bin\Debug\location.Androidd.dll.mdb
+C:\Users\R210\Downloads\BackgroundLocationDemo\Location.Android\obj\Debug\android\assets\location.Androidd.dll.mdb
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\Location.Droid.csprojResolveAssemblyReference.cache
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\Location.Droid.csproj.CoreCompileInputs.cache
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\location.Androidd.dll
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\location.Androidd.pdb
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\location.Androidd.dll
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\location.Androidd.pdb
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\Location.Droid.apk
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\Location.Droid-Signed.apk
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\Renci.SshNet.dll
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\SshNet.Security.Cryptography.dll
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\Renci.SshNet.xml
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\SshNet.Security.Cryptography.xml
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\android\bin\Location.Droid.apk
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\values\strings.xml
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-ldpi\icon.png
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\layout\main.xml
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-hdpi\ic_launcher.png
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-ldpi\ic_launcher.png
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-mdpi\ic_launcher.png
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-xxhdpi\ic_launcher.png
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable\ic_launcher.png
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\location.android\resources\drawable\ic_launcher.png
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\R.cs.flag
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\uploadflags.txt
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\location.Androidd.dll.mdb
+C:\Users\R210\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\android\assets\location.Androidd.dll.mdb
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\location.Androidd.dll
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\location.Androidd.pdb
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\Location.Droid.apk
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\Location.Droid-Signed.apk
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\Renci.SshNet.dll
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\SshNet.Security.Cryptography.dll
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\Renci.SshNet.xml
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\SshNet.Security.Cryptography.xml
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\Location.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\Location.Droid.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\location.Androidd.dll
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\location.Androidd.pdb
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\android\bin\Location.Droid.apk
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\values\strings.xml
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-ldpi\icon.png
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\layout\main.xml
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-hdpi\ic_launcher.png
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-ldpi\ic_launcher.png
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-mdpi\ic_launcher.png
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable-xxhdpi\ic_launcher.png
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\res\drawable\ic_launcher.png
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\location.android\resources\drawable\ic_launcher.png
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\R.cs.flag
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\uploadflags.txt
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\location.Androidd.dll.mdb
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\obj\Debug\android\assets\location.Androidd.dll.mdb
+C:\Users\Daniel Mota\Documents\GitHub\BackgroundLocationDemo\Location.Android\bin\Debug\location.Androidd.dll
+bin\Debug\Microsoft.CSharp.pdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\location.Androidd.dll.mdb
+obj\Debug\linksrc\Microsoft.CSharp.pdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
